@@ -4,10 +4,10 @@ DummyCarousel
 Dummy carousel app
 
 
-How many hours did it take to complete?
+## How many hours did it take to complete?
 5
 
-Which required and optional stories have you completed?
+## Which required and optional stories have you completed?
 
 Home
 - Required: Static photo tiles on the initial screen
@@ -38,5 +38,5 @@ Settings
 - Required: User can dismiss the settings screen.
 - Required: User can log out
 
-GIF walkthrough of all required and optional stories (using LiceCap)
+## GIF walkthrough of all required and optional stories (using LiceCap)
 ![](https://dl.dropboxusercontent.com/u/2800293/DummyCarousel.gif)
